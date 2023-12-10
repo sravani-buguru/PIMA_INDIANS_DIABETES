@@ -4,9 +4,9 @@
 The Pima Indian Diabetes Dataset, contains information of 768 women . The outcome tested was Diabetes, 258 tested positive and 500 tested negative. Therefore, there is one target (dependent) variable and the 8 attributes: pregnancies, OGTT(Oral Glucose Tolerance Test), blood pressure, skin thickness, insulin, BMI(Body Mass Index), age, pedigree diabetes function. The Pima population has been under study by the National Institute of Diabetes and Digestive and Kidney Diseases at intervals of 2 years since 1965. As epidemiological evidence indicates that T2DM results from interaction of genetic and environmental factors, the Pima Indians Diabetes Dataset includes information about attributes that could and should be related to the onset of diabetes and its future complications.
 
 ## Histogram
-[Screenshot (8)](https://github.com/sravani-buguru/PIMA_INDIANS_DIABETES/assets/147702072/c3af374c-549d-4a2d-9562-b93723a6e096)
+![Screenshot (8)](https://github.com/sravani-buguru/PIMA_INDIANS_DIABETES/assets/147702072/c3af374c-549d-4a2d-9562-b93723a6e096)
 ## Box & Whisker Plot
-[Screenshot (9)](https://github.com/sravani-buguru/PIMA_INDIANS_DIABETES/assets/147702072/f812aa9e-8868-4abc-852d-6214294e902e)
+![Screenshot (9)](https://github.com/sravani-buguru/PIMA_INDIANS_DIABETES/assets/147702072/f812aa9e-8868-4abc-852d-6214294e902e)
 ## Scatter Plot
 ![Screenshot (10)](https://github.com/sravani-buguru/PIMA_INDIANS_DIABETES/assets/147702072/019132c4-09ac-4280-add9-b4c10c96f2a5)
 
