@@ -58,8 +58,7 @@ Jupyter Notebook
        from sklearn.naive_bayes import GaussianNB
        from sklearn.svm import SVC
 
-# Histogram
-![Screenshot (8)](https://github.com/sravani-buguru/PIMA_INDIANS_DIABETES/assets/147702072/b86dfaec-97bd-4525-9bb2-bf61ddbb3e5c)
+
 
 
 
