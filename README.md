@@ -3,14 +3,22 @@
 
 # Description:
 Developed and implemented machine learning models to predict the onset of diabetes in Pima Indian women. Utilized the Pima Indians Diabetes dataset, which consists of clinical measurements and a binary outcome variable indicating the presence of diabetes.
+
 Machine Learning for Applied supervised learning algorithms to build predictive models.
+
 By using Data Preprocessing ,Cleaned and transformed data for model training.
+
 Used Feature Engineering for Creating additional features to improve model performance.
+
 By Model Evaluation,Evaluated model performance using metrics like accuracy, precision, recall, and F1 score.
+
 # Project Highlights:
 Successfully implemented various machine learning models, including Logistic Regression, Random Forest, and XGBoost.
+
 Achieved an accuracy of over 80% in predicting diabetes onset.
+
 Performed feature selection and engineered new features to improve model performance.
+
 Analyzed and interpreted feature importance to understand the key factors contributing to diabetes
 
 
