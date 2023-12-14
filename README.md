@@ -37,12 +37,19 @@ https://drive.google.com/file/d/1Y8GJHkg5gWKT6VHGPyt0TA4K0kLFq5w7/view?usp=drive
 
 ## Installation
 # Libraries
+
 Python
+
 Scikit-Learn
+
 Pandas
+
 NumPy
+
 Matplotlib
+
 Jupyter Notebook
+
 ## Setup
 
        import pandas as pd
