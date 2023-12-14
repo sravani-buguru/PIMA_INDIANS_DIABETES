@@ -1,7 +1,18 @@
 # Over view
 # PIMA_INDIANS_DIABETES_PROJECT
 
-The Pima Indian Diabetes Dataset, contains information of 768 women . The outcome tested was Diabetes, 258 tested positive and 500 tested negative. Therefore, there is one target (dependent) variable and the 8 attributes: pregnancies, OGTT(Oral Glucose Tolerance Test), blood pressure, skin thickness, insulin, BMI(Body Mass Index), age, pedigree diabetes function. The Pima population has been under study by the National Institute of Diabetes and Digestive and Kidney Diseases at intervals of 2 years since 1965. As epidemiological evidence indicates that T2DM results from interaction of genetic and environmental factors, the Pima Indians Diabetes Dataset includes information about attributes that could and should be related to the onset of diabetes and its future complications.
+# Description:
+Developed and implemented machine learning models to predict the onset of diabetes in Pima Indian women. Utilized the Pima Indians Diabetes dataset, which consists of clinical measurements and a binary outcome variable indicating the presence of diabetes.
+Machine Learning for Applied supervised learning algorithms to build predictive models.
+By using Data Preprocessing ,Cleaned and transformed data for model training.
+Used Feature Engineering for Creating additional features to improve model performance.
+By Model Evaluation,Evaluated model performance using metrics like accuracy, precision, recall, and F1 score.
+# Project Highlights:
+Successfully implemented various machine learning models, including Logistic Regression, Random Forest, and XGBoost.
+Achieved an accuracy of over 80% in predicting diabetes onset.
+Performed feature selection and engineered new features to improve model performance.
+Analyzed and interpreted feature importance to understand the key factors contributing to diabetes
+
 
 ## Histogram
 ![Screenshot (8)](https://github.com/sravani-buguru/PIMA_INDIANS_DIABETES/assets/147702072/c3af374c-549d-4a2d-9562-b93723a6e096)
@@ -18,21 +29,12 @@ https://drive.google.com/file/d/1Y8GJHkg5gWKT6VHGPyt0TA4K0kLFq5w7/view?usp=drive
 
 ## Installation
 # Libraries
-
-pandas
-
-numpy
-
-seaborn
-
-matplotlib.pyplot
-
-sklearn
-
-statsmodels
-
+Python
+Scikit-Learn
+Pandas
+NumPy
+Matplotlib
 Jupyter Notebook
-
 ## Setup
 
        import pandas as pd
